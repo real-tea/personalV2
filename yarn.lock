@@ -4430,10 +4430,10 @@ rehype-autolink-headings@^6.1.1:
     unified "^10.0.0"
     unist-util-visit "^4.0.0"
 
-rehype-pretty-code@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/rehype-pretty-code/-/rehype-pretty-code-0.6.0.tgz#22031de9bbb028f531ad9cf2ffc9d4aa902d4407"
-  integrity sha512-VfntYoWYOBVURXYDdB8p/E1sZTm2W5ry89fJyY94WJAo1jUH/5sVhDC7cX5PPnksMyW9PYMxRLNfjkBpSgJrzQ==
+rehype-pretty-code@^0.9.2:
+  version "0.9.2"
+  resolved "https://registry.yarnpkg.com/rehype-pretty-code/-/rehype-pretty-code-0.9.2.tgz#c73fd7051eb59a9d1fdba845d356cd1d99f5455b"
+  integrity sha512-l369pvBK6ihBEuy2+VDpHU+zbbY8I+Z4LiyIOunHAt3xyw6selaOFKc/DnX94jI5OJb3+NgjbOxXx2yaAypjZw==
   dependencies:
     hash-obj "^4.0.0"
     nanoid "^4.0.0"
