@@ -1,22 +1,22 @@
 [
     {
         "image":"/images/pm.png",
-        "title":"PitchMe",
-        "description":"Instantly generate quality referral pitches and cover letters using AI in only 3 steps! Edit with an in-built editor and login to save for future use.",
-        "site":"https://pitchme.vercel.app/",
-        "github":"https://github.com/ravoluzen/pitchme"
+        "title":"Semd",
+        "description":"Send Files on a webRTC based channel by scanning a quick QR code",
+        "site":"https://semd.vercel.app/",
+        "github":"https://github.com/real-tea/semd"
     },
     {
         "image":"/images/lawyours.png",
-        "title":"Lawyours",
-        "description":"A full-stack platform for clients and lawyers to post queries, discuss with and discover each other. Seek Counsel. Show Interest. Secure lives.",
-        "site":"https://lawyours-ravoluzen.vercel.app/",
-        "github":"https://github.com/ravoluzen/lawyours"
+        "title":"Screen-X",
+        "description":"A Screen Shot beautifier for modifying boring screen grabs for ppt presentations etc. ",
+        "site":"https://https://screenx-v1.vercel.app/",
+        "github":"https://github.com/real-tea/ScreenX"
     },
     {
         "image":"/images/musix.png",
-        "title":"Musix",
-        "description":"A full-fledged music streaming and exploration app, powered by Shazam Core API",
+        "title":"Qwiz",
+        "description":"A Quiz builder for preparing assesing various quizes for teachers or fun pub parties",
         "site":"https://ravoluzen-musix.netlify.app",
         "github":"https://github.com/ravoluzen/musix"
     },
