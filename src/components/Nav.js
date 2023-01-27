@@ -19,14 +19,14 @@ const Nav = () => {
           <Link 
           to='Projects' 
           key='projects' 
-          className='underline decoration-green-500 decoration-2 hover:decoration-purple-600 hover:decoration-4'>
+          className='underline decoration-purple-500 decoration-2 hover:decoration-pink-600 hover:decoration-4'>
             Projects
           </Link>
 
           <Link 
           to='About' 
           key='about' 
-          className='underline decoration-green-500 decoration-2 hover:decoration-purple-600 hover:decoration-4'>
+          className='underline decoration-pink-500 decoration-2 hover:decoration-green-600 hover:decoration-4'>
             About
           </Link>
 

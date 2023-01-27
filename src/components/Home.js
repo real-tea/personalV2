@@ -30,7 +30,7 @@ const Home = () => {
                 <br></br>
                 <p className='text-sm md:text-base'>
                   Creating and Breaking things with ReactJS, NextJS, 
-                  TypeScript and other frontend technologies.</p>
+                  TypeScript and other frontend tools.</p>
             
             </article>
         </section>

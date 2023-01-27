@@ -12,8 +12,8 @@ const Projects = () => {
     initial={{ opacity: 0}}
     animate={{ opacity: 1 }}
     transition={{ delay: 0.3 }}>
-        <h1 className='font-bold text-base mb-8'>Some of my recent projects</h1>
-        <main className='w-full grid grid-cols-1 gap-10 items-start md:grid-cols-2 lg:grid-cols-4'>
+        <h1 className='font-bold text-base mb-8'>Some of my projects</h1>
+        <main className='w-full grid grid-cols-1 gap-10 items-start md:grid-cols-5 lg:grid-cols-3'>
             {projects ? (projects.map(project => (
                 <Project 
                     image={project.image}
@@ -24,7 +24,7 @@ const Projects = () => {
                 />
             ))):(<h1>Loading...</h1>)}
         </main>
-        <p className='mt-12 md:mt-16 underline decoration-green-400 hover:decoration-purple-600 hover:decoration-4'><a href='https://github.com/ravoluzen' target='_blank.'>Github</a></p>
+        <p className='mt-12 md:mt-16 underline decoration-green-400 hover:decoration-purple-600 hover:decoration-4'><a href='https://github.com/real-tea' target='_blank.'>Github</a></p>
     </motion.div>
   )
 }
