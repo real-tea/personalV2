@@ -27,6 +27,8 @@ const About = () => {
 
             </p>
             <br></br>
+            <p>I Believe the desire to build something beautiful is the peice of God in us therefore <span  className='underline decoration-purple-600 decoration-4'>Build</span > <span className ="underline decoration-green-600 decoration-4">beautiful</span> <span className='text-sm underline decoration-pink-600 decoration-4'>Things</span> </p>
+            <br></br>
             <p className= "text-sm">
                 This website is my corner of the Internet, for the toys and trinkets
                 I attempt to make. and Just like me, This Website is a...
